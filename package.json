@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "ceshi": "tsx ./src/index.ts"
+  },
   "author": "baiye",
   "license": "ISC",
   "devDependencies": {
