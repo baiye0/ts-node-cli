@@ -1,0 +1,10 @@
+## editor config
+.vscode/
+
+## dist
+node_modules/
+# task dist
+dist/
+
+## user config
+.env.*
